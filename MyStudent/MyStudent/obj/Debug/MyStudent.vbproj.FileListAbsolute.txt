@@ -1,0 +1,14 @@
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\bin\Debug\MyStudent.exe.config
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\bin\Debug\MyStudent.exe
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\bin\Debug\MyStudent.pdb
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\bin\Debug\MyStudent.xml
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\obj\Debug\MyStudent.vbprojResolveAssemblyReference.cache
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\obj\Debug\MyStudent.Form1.resources
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\obj\Debug\MyStudent.Resources.resources
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\obj\Debug\MyStudent.vbproj.GenerateResource.Cache
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\obj\Debug\MyStudent.exe
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\obj\Debug\MyStudent.xml
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\obj\Debug\MyStudent.pdb
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\obj\Debug\MyStudent.EditForm.resources
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\obj\Debug\MyStudent.InsertForm.resources
+c:\users\software\documents\visual studio 2015\Projects\MyStudent\MyStudent\obj\Debug\MyStudent.ViewForm.resources
