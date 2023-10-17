@@ -1,0 +1,8 @@
+c:\users\software\documents\visual studio 2015\Projects\R043081J\R043081J\bin\Debug\R043081J.exe.config
+c:\users\software\documents\visual studio 2015\Projects\R043081J\R043081J\obj\Debug\R043081J.vbprojResolveAssemblyReference.cache
+c:\users\software\documents\visual studio 2015\Projects\R043081J\R043081J\obj\Debug\R043081J.EditForm.resources
+c:\users\software\documents\visual studio 2015\Projects\R043081J\R043081J\obj\Debug\R043081J.Form1.resources
+c:\users\software\documents\visual studio 2015\Projects\R043081J\R043081J\obj\Debug\R043081J.InsertForm.resources
+c:\users\software\documents\visual studio 2015\Projects\R043081J\R043081J\obj\Debug\R043081J.Resources.resources
+c:\users\software\documents\visual studio 2015\Projects\R043081J\R043081J\obj\Debug\R043081J.ViewForm.resources
+c:\users\software\documents\visual studio 2015\Projects\R043081J\R043081J\obj\Debug\R043081J.vbproj.GenerateResource.Cache
